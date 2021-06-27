@@ -1,17 +1,12 @@
-# Libraries
-*.lvlibp
-*.llb
+# Java
+*.class
+*.jar
+hs_err_pid*
 
-# Shared objects (inc. Windows DLLs)
-*.dll
-*.so
-*.so.*
-*.dylib
+# Maven
+target/
 
-# Executables
-*.exe
-
-# Metadata
-*.aliases
-*.lvlps
-.cache/
+# IntelliJ
+.idea
+*.iml
+*.plantuml
