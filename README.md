@@ -1,2 +1,2 @@
 # PenisQueue
-a good queue plugin for anarchy servers I made
+basic and easy to use queue plugin designed for anarchy and survival servers that i made
