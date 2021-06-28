@@ -29,7 +29,7 @@ auth server support for cracked (offline mode: false) servers. You can now have 
 queue
 
 ## setup
-
+[Wiki](https://github.com/christallinqq/PenisQueue/wiki)
 check out the wiki for a tutorial on how to setup PenisQueue.
 
 if you find any bugs or ways to improve the plugin open a issue on github
