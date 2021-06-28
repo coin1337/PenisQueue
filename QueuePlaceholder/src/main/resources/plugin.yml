@@ -2,7 +2,7 @@ name: QueuePlaceholder
 version: ${project.version}
 main: me.christallinqq.queueplaceholder.QueuePlaceholder
 api-version: 1.13
-authors: [Christallinqq ]
+authors: [Christallinqq]
 description: Puts queue data in papi
 website: https://github.com/christallinqq/
 depend: [ PlaceholderAPI ]
