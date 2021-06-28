@@ -1,0 +1,6 @@
+name: PenisQueue
+main: PenisQueue
+description: ${project.description}
+version: ${project.version}
+author: Christallinqq
+softDepends: [ PenisMOTD ]
