@@ -11,7 +11,7 @@ import org.jetbrains.annotations.NotNull;
 
 import java.util.logging.Logger;
 
-public final class PenisQueuePlaceholder extends JavaPlugin implements PluginMessageListener {
+public final class QueuePlaceholder extends JavaPlugin implements PluginMessageListener {
     protected int regular = 0;
     protected int priority = 0;
     protected int veteran = 0;
